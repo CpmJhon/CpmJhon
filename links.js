@@ -1,5 +1,19 @@
 export const links = [
     {
+        name: "Donate Saweria",
+        link: 
+"https://saweria.co/CpmJhon",
+        image: 
+"saweria.png",
+    },
+    {
+        name: "Donate PayPal",
+        link: 
+"https://www.paypal.me/cpmjhon",
+        image: 
+"pay.png",
+    },
+    {
         name: "WhatsApp",
         link: 
 "https://wa.me/6285894955362",
