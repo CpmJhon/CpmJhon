@@ -44,7 +44,7 @@ export const links = [
     {
         name: "Website",
         link: 
-"https://shorturl.at/dkCO0",
+"https://cpmjhon.github.io/Tes/",
         image: 
 "globe.png",
     },
