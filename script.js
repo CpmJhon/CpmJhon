@@ -2,7 +2,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     setTimeout(() => {
         window.location.href = "index2.html";
-    }, 11000); // 5 detik
+    }, 25000); // 5 detik
 });
 
 // Inisialisasi Particles.js
